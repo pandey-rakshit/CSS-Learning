@@ -7,7 +7,7 @@ body{
 }
 
 #product-overview{
-    background:url("/module3/img/freedom.jpg");
+    background:url("https://pandey-rakshit.github.io/CSS-Learning/module3/img/freedom.jpg");
     width: 100%;
     height: 528px;
     padding: 10px;
